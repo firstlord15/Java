@@ -1,0 +1,6 @@
+[submodule "КТшки/Spring_K1"]
+	path = КТшки/Spring_K1
+	url = https://github.com/firstlord15/java_kt1
+[submodule "КТшки/Spring_K2"]
+	path = КТшки/Spring_K2
+	url = https://github.com/firstlord15/java_kt2
